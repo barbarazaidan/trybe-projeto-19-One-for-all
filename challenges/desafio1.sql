@@ -5,10 +5,10 @@ CREATE TABLE SpotifyClone.Planos
 (
     plano_id INT PRIMARY KEY AUTO_INCREMENT,
     plano	VARCHAR(512) NOT NULL,
-    valor_plano	VARCHAR(512) NOT NULL
+    valor_plano	DECIMAL(7,2) NOT NULL
 ) engine = InnoDB;
 
-INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('gratuito', '0');
+INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('gratuito', '0.00');
 INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('familiar', '7.99');
 INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('universitário', '5.99');
 INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('pessoal', '6.99');
