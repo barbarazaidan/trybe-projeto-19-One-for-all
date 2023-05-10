@@ -9,9 +9,9 @@ CREATE TABLE SpotifyClone.Planos
 ) engine = InnoDB;
 
 INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('gratuito', '0');
-INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('familiar', '7,99');
-INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('universitário', '5,99');
-INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('pessoal', '6,99');
+INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('familiar', '7.99');
+INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('universitário', '5.99');
+INSERT INTO SpotifyClone.Planos  (plano, valor_plano) VALUES ('pessoal', '6.99');
 
 CREATE TABLE SpotifyClone.Usuario 
 (
