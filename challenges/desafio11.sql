@@ -8,4 +8,4 @@ FROM
         INNER JOIN
     SpotifyClone.Albuns AS Alb ON music.album_id = Alb.album_id
 GROUP BY Alb.album
-ORDER BY favoritadas DESC LIMIT 3;
+ORDER BY favoritadas DESC, album LIMIT 3;
