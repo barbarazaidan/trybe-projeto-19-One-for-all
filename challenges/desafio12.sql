@@ -1,10 +1,10 @@
 SELECT 
     cantor.artista AS artista,
     CASE 
-    WHEN COUNT(favoritas.musica_id) >= 5 THEN 'A'
-    WHEN COUNT(favoritas.musica_id) >= 3 AND COUNT(favoritas.musica_id) < 5 THEN 'B'
-    WHEN COUNT(favoritas.musica_id) >= 1 AND COUNT(favoritas.musica_id) < 3 THEN 'C'
-    ELSE '-'
+        WHEN COUNT(favoritas.musica_id) >= 5 THEN 'A'
+        WHEN COUNT(favoritas.musica_id) >= 3 AND COUNT(favoritas.musica_id) < 5 THEN 'B'
+        WHEN COUNT(favoritas.musica_id) >= 1 AND COUNT(favoritas.musica_id) < 3 THEN 'C'
+        ELSE '-'
     END AS ranking     
 FROM
     SpotifyClone.Musicas_favoritas AS favoritas
