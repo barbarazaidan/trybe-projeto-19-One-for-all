@@ -1,7 +1,7 @@
 # Projeto MYSQL One For All
 ## Este repositório contém o desenvolvimento do meu 19º projeto na Trybe
 
-Seguindo no Backend, chegou o momento de se aprofundar no aprendizado do MySQL. Neste projeto, o objetivo foi trabalhar com o uso de tabelas, fixando vários conceitos relacionados a BD. Para isso, recebi tabelas não normalizadas que precisaram ser normalizadas e populadas. Em seguida, tive que executar diferentes queries para encontrar as informações pedidas ao longo dos requisitos. 
+Seguindo no Backend, começamos a nos aprofundar no aprendizado do MySQL. Neste projeto, o objetivo foi trabalhar com o uso de tabelas, fixando vários conceitos relacionados a BD. Para isso, recebi tabelas não normalizadas que precisaram ser normalizadas e populadas. Em seguida, tive que executar diferentes queries para encontrar as informações pedidas ao longo dos requisitos. 
 
 ## Detalhes do projeto
 
