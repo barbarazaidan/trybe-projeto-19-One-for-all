@@ -36,6 +36,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **2. Crie uma QUERY que exiba três colunas:**
 
 <details><summary>Detalhes</summary>
@@ -49,6 +51,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 </p>
 </details>
+
+---
 
 **3. Crie uma QUERY que deverá ter apenas três colunas:**
 <details><summary>Detalhes</summary>
@@ -65,6 +69,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **4. Crie uma QUERY que deve mostrar as pessoas usuárias que estavam ativas a partir do ano de 2021, se baseando na data mais recente no histórico de reprodução**
 
 <details><summary>Detalhes</summary>
@@ -79,6 +85,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **5. Estamos fazendo um estudo das músicas mais tocadas e precisamos saber quais são as duas músicas mais tocadas no momento. Crie uma QUERY que possua duas colunas:**
 
 <details><summary>Detalhes</summary>
@@ -92,6 +100,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 </p>
 </details>
+
+---
 
 **6. Tendo como base o valor dos planos e o plano que cada pessoa usuária cadastrada possui no banco, queremos algumas informações sobre o faturamento da empresa. Crie uma QUERY que deve exibir quatro dados:**
 
@@ -111,6 +121,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **7. Mostre uma relação de todos os álbuns produzidos por cada pessoa artista, ordenada pela quantidade de seguidores que ela possui, de acordo com os detalhes a seguir. Para tal, crie uma QUERY com as seguintes colunas:**
 
 <details><summary>Detalhes</summary>
@@ -127,6 +139,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **8. Mostre uma relação dos álbuns produzidos por uma pessoa artista específica, neste caso "Elis Regina". Para isto crie uma QUERY que o retorno deve exibir as seguintes colunas:**
 
 <details><summary>Detalhes</summary>
@@ -141,6 +155,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **9. Crie uma QUERY que exibe a quantidade de músicas que estão presentes atualmente no histórico de reprodução de uma pessoa usuária específica. Para este caso queremos saber quantas músicas estão no histórico da usuária "Barbara Liskov" e a consulta deve retornar a seguinte coluna:**
 
 <details><summary>Detalhes</summary>
@@ -150,6 +166,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 </p>
 </details>
+
+---
 
 REQUISITO BÔNUS
 
@@ -167,6 +185,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **11. Crie uma QUERY que exibe o top 3 de álbuns com as músicas que mais foram favoritadas. O resultado deve possuir duas colunas:**
 
 <details><summary>Detalhes</summary>
@@ -181,6 +201,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 </p>
 </details>
 
+---
+
 **12. Crie uma QUERY que exibe um ranking de artistas baseado na quantidade de favoritadas em suas músicas. O resultado deve possuir duas colunas:**
 
 <details><summary>Detalhes</summary>
@@ -194,6 +216,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 </p>
 </details>
+
+---
 
 **13. Crie uma QUERY que exibe uma relação da quantidade total de pessoas usuárias e favoritadas por faixa etária. O resultado deve possuir três colunas:**
 
@@ -213,6 +237,8 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 </p>
 </details>
+
+---
 
 ## Sobre o curso da Trybe
 O programa total de estudo conta com mais de 1.500 horas de aulas presenciais e online,divididas ao longo de 12 meses. O conteúdo aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
